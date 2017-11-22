@@ -1,0 +1,178 @@
+﻿[
+  {
+    "MajorGroup_Id": "705",
+    "MajorGroup_Name": "CE Environ Health & Safety",
+    "Organizations": [
+      {
+        "Org_Id": "705",
+        "Org_Name": "Environment Health & Safety",
+        "Departments": [
+          {
+            "Dept_Id": "136",
+            "Dept_Name": "Health & Safety",
+            "Sections": [
+              {
+                "Section_Id": "021",
+                "Section_Name": "EHS Safety"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "144",
+            "Dept_Name": "EHS Operations",
+            "Sections": [
+              {
+                "Section_Id": "059",
+                "Section_Name": "EHS OPS Gas"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "142",
+            "Dept_Name": "Environment & Steam Ops",
+            "Sections": [
+              {
+                "Section_Id": "175",
+                "Section_Name": "EHS Air Resources"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "134",
+            "Dept_Name": "Engineering & Construction",
+            "Sections": [
+              {
+                "Section_Id": "187",
+                "Section_Name": "EHS Sustainable Infrastructure"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "122",
+            "Dept_Name": "Off Of VP Envi Health & Safety",
+            "Sections": [
+              {
+                "Section_Id": "711",
+                "Section_Name": "EHS Office of VP EHS"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "220",
+            "Dept_Name": "Remediation",
+            "Sections": [
+              {
+                "Section_Id": "849",
+                "Section_Name": "EHS Remediation & Legacy"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "141",
+            "Dept_Name": "EHS Field Services",
+            "Sections": [
+              {
+                "Section_Id": "907",
+                "Section_Name": "EHS Field Services"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "137",
+            "Dept_Name": "EHS Program Management",
+            "Sections": [
+              {
+                "Section_Id": "971",
+                "Section_Name": "EHS Programs"
+              }
+            ]
+          }
+        ],
+        "MajorGroup_Id": null,
+        "MajorGroup_Name": null
+      }
+    ]
+  },
+  {
+    "MajorGroup_Id": "706",
+    "MajorGroup_Name": "CE Electric Operations",
+    "Organizations": [
+      {
+        "Org_Id": "720",
+        "Org_Name": "Bronx & Westchester",
+        "Departments": [
+          {
+            "Dept_Id": "527",
+            "Dept_Name": "Central Support Operations",
+            "Sections": [
+              {
+                "Section_Id": "097",
+                "Section_Name": "BW Supp Ops Admin Supp"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "327",
+            "Dept_Name": "Bronx & West Electric Ops",
+            "Sections": [
+              {
+                "Section_Id": "202",
+                "Section_Name": "BW Electric Ops GM & Staff"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "326",
+            "Dept_Name": "Bronx & West Electric Constr",
+            "Sections": [
+              {
+                "Section_Id": "251",
+                "Section_Name": "BW Overhead East"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "325",
+            "Dept_Name": "Electric Construction Networks",
+            "Sections": [
+              {
+                "Section_Id": "253",
+                "Section_Name": "BW Environmental Ops"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "132",
+            "Dept_Name": "Off Of VP Bronx & West",
+            "Sections": [
+              {
+                "Section_Id": "747",
+                "Section_Name": "BW Office of VP"
+              }
+            ]
+          }
+        ],
+        "MajorGroup_Id": null,
+        "MajorGroup_Name": null
+      },
+      {
+        "Org_Id": "706",
+        "Org_Name": "Electric Operations",
+        "Departments": [
+          {
+            "Dept_Id": "117",
+            "Dept_Name": "Off Sr VP Electric Oprs",
+            "Sections": [
+              {
+                "Section_Id": "095",
+                "Section_Name": "ELEC OPS Work Management Team"
+              }
+            ]
+          }
+        ],
+        "MajorGroup_Id": null,
+        "MajorGroup_Name": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{7AB9C493-D5B5-4610-801F-076A5FD16B1D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleDB/CommunicationsPage.xaml.cs">
+    <Files>
+      <File FileName="SampleDB/CommunicationsPage.xaml.cs" Line="504" Column="57" />
+      <File FileName="SampleDB/PickerPage.xaml.cs" Line="49" Column="1" />
+      <File FileName="SampleDB/App.xaml.cs" Line="12" Column="71" />
+      <File FileName="SampleDB/CommunicationsPage.xaml" Line="53" Column="1" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="SampleDB/organizations.json" Line="1" Column="1" />
+      <File FileName="SampleDB/getbannerdata.json" Line="1544" Column="1" />
+      <File FileName="SampleDB/SaveJsseModel.cs" Line="156" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB 2 2-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="648" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB 2 2-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="639" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB 2 2-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="663" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB 2 2-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="772" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB 2 2-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="747" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SampleDB.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D93C4D9C-6BC3-4614-8F47-6511184A1640" />
+  <DisabledProjects>
+    <String>Droid/SampleDB.Droid.csproj</String>
+  </DisabledProjects>
+</Properties>

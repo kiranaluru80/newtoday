@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="SampleDB.PickerPage">
+	<ContentPage.Content>
+        <StackLayout Padding="20,20,20,0" Orientation="Horizontal" Spacing="20" HorizontalOptions="FillAndExpand" VerticalOptions="Start">
+            <Picker x:Name="orgpicker" HorizontalOptions="FillAndExpand" VerticalOptions="StartAndExpand"></Picker>
+
+            <Button x:Name="submitRef" Text = "Submit" HorizontalOptions="FillAndExpand" VerticalOptions="StartAndExpand"></Button>
+        </StackLayout>
+	</ContentPage.Content>
+</ContentPage>
